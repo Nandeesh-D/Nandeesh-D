@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Nandeesh-D
-- 👀 I’m interested in working with AI
-- 🌱 I’m currently learning Machine Learning
+- Hi! This is D.Nandeesh
+- I'm an AI enthusiast with a deep commitment to leveraging technology for practical problem-solving.
+- My professional journey revolves around the fascinating world of Artificial Intelligence.
+- I'm passionate about exploring GenAI tools to address real-world challenges.
+- I love ❤️ problem solving.
+
+
 
 
 <!---
