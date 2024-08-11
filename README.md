@@ -1,5 +1,5 @@
 - Hi! This is D.Nandeesh
-- I'm an Blockkchain enthusiast with a deep commitment to leveraging technology for practical problem-solving.
+- I'm a Blockkchain enthusiast with a deep commitment to leveraging technology for practical problem-solving.
 - My professional journey revolves around the fascinating world of Blockchain which puts trust among the people in the trustless world.
 - I love ❤️ problem solving.
 
